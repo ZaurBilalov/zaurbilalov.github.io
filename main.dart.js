@@ -56187,9 +56187,9 @@ $C:"$3",
 $R:3,
 $S:339}
 O.Yg.prototype={
-$2:function(a,b){var s=null,r="Made by Zaur Bilalov",q="Data from Our World in Data (OWID-COVID-DATA)",p="Last Update was on December 1st, Tuesday (8:00 AM)",o=t.fQ
-if(b.c.a<1100){o=T.mm(H.b([Z.mC(),new S.mT(s),Z.mC(),T.eG(new A.rP(s),s,s),Z.mC(),T.eG(L.ba(r,s,s,s,A.jM(s,s,s,s,s,s,s,s,s,s,s,s,C.q6,s,s,s,!0,s,s,s,s,s,s),s),s,s),T.eG(L.ba(q,s,s,s,s,s),s,s),T.eG(L.ba(p,s,s,s,s,s),s,s),Z.mC()],o),C.nb,C.aJ)
-return new E.D8(!0,o,s)}else return T.mm(H.b([T.af9(T.tM(H.b([new A.q2(s),new S.mT(s)],o),C.bZ,C.nb,C.aJ)),Z.mC(),T.eG(L.ba(r,s,s,s,A.jM(s,s,s,s,s,s,s,s,s,s,s,s,C.q6,s,s,s,!0,s,s,s,s,s,s),s),s,s),T.eG(L.ba(q,s,s,s,s,s),s,s),T.eG(L.ba(p,s,s,s,s,s),s,s),Z.mC()],o),C.bP,C.aJ)},
+$2:function(a,b){var s=null,r="Made by Zaur Bilalov",q="Data from Our World in Data (OWID-COVID-DATA)",p=t.fQ
+if(b.c.a<1100){p=T.mm(H.b([Z.mC(),new S.mT(s),Z.mC(),T.eG(new A.rP(s),s,s),Z.mC(),T.eG(L.ba(r,s,s,s,A.jM(s,s,s,s,s,s,s,s,s,s,s,s,C.q6,s,s,s,!0,s,s,s,s,s,s),s),s,s),T.eG(L.ba(q,s,s,s,s,s),s,s),T.eG(L.ba("Last Update was on December 1st, Tuesday (8:00 AM)",s,s,s,s,s),s,s),Z.mC()],p),C.nb,C.aJ)
+return new E.D8(!0,p,s)}else return T.mm(H.b([T.af9(T.tM(H.b([new A.q2(s),new S.mT(s)],p),C.bZ,C.nb,C.aJ)),Z.mC(),T.eG(L.ba(r,s,s,s,A.jM(s,s,s,s,s,s,s,s,s,s,s,s,C.q6,s,s,s,!0,s,s,s,s,s,s),s),s,s),T.eG(L.ba(q,s,s,s,s,s),s,s),T.eG(L.ba("Last Update was on December 5th, Saturday (1:00 AM)",s,s,s,s,s),s,s),Z.mC()],p),C.bP,C.aJ)},
 $C:"$2",
 $R:2,
 $S:340}

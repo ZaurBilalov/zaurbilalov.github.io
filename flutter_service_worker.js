@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "34ca6c29cbef880c244f17bb69fd6d7f",
-"index.html": "acea7a49360012d2942b02a837d11d35",
-"/": "acea7a49360012d2942b02a837d11d35",
-"main.dart.js": "68c4a9049480452c3bcd8f8ee5fcb331",
+"index.html": "7bc96746af26aa075339ec0e17ee2484",
+"/": "7bc96746af26aa075339ec0e17ee2484",
+"main.dart.js": "24d96b2dc82c7bdf2ba7bbe026013872",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -16,7 +16,7 @@ const RESOURCES = {
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/assets/owid-covid-data.json": "bd95814fea41282ce5677965d4708576"
+"assets/assets/owid-covid-data.json": "fc0a0f7a8b061530ca00e9a45c2ab18d"
 };
 
 // The application shell files that are downloaded before a service worker can
